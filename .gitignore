@@ -1,0 +1,4 @@
+.pio/
+.vscode/
+# Wi-Fiパスワード・Webhook URLを含むため絶対にコミットしない
+include/config.h
